@@ -19,5 +19,7 @@ Repeat the previous step, but this time retrieve all the rows where the review w
 Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
 ![](https://github.com/sedigh-etoumi/Amazon_Reviews_ETL/blob/main/Resources/images/percentage.png)
 
+Summary: As the percentage of 5 stars paied reviews up to 51% we can significantly notice there is a bias for reviews in the Vine program. 
+
 
  
