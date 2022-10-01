@@ -7,4 +7,6 @@ Analysis and Results:
 - Filter the data and create a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20 as the following.
 ![](https://github.com/sedigh-etoumi/Amazon_Reviews_ETL/blob/main/Resources/images/total_vote_count.png)
 
-
+- Filter the new DataFrame or table created in Step 1 and create a new DataFrame or table to retrieve all the rows where the number of helpful_votes divided by             total_votes is equal to or greater than 50%.
+![](https://github.com/sedigh-etoumi/Amazon_Reviews_ETL/blob/main/Resources/images/last_vine_df.png)
+ 
